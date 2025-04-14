@@ -33,7 +33,7 @@ This project was developed as part of the **Machine Learning II (ML2)** course a
 
 This app is live on **Streamlit Cloud**:
 
-🔗 [Click here to view the deployed app](https://your-username-ml2-group3-forecast-app.streamlit.app)
+🔗 [Click here to view the deployed app]((https://python-eyvn5awzbjn3zmbdcbmzac.streamlit.app))
 
 
 ---
